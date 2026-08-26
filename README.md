@@ -12,17 +12,18 @@ The application contains **800+ questions** based on spelling topics and past Ö
 
 ## Screenshots
 
+- 800+ spelling practice questions
+- Swipe-based learning experience
+- Content based on YKS / ÖSYM spelling topics
+- Simple and mobile-first interface
+- Published on the Apple App Store
+
 <p align="center">
   <img src="home.png" width="220" />
   <img src="practice.png" width="220" />
   <img src="mistakes.png" width="220" />
 </p>
 
-- 800+ spelling practice questions
-- Swipe-based learning experience
-- Content based on YKS / ÖSYM spelling topics
-- Simple and mobile-first interface
-- Published on the Apple App Store
 
 ## My Role
 
