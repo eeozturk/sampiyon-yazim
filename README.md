@@ -40,8 +40,6 @@ I took the product from idea to release, including:
 
 The application was built using an AI-assisted development workflow, allowing me to rapidly prototype, test, iterate, and ship a complete mobile product.
 
-## Status
-
 ## App Store
 
 ✅ Published on the Apple App Store
