@@ -10,6 +10,14 @@ The application contains **800+ questions** based on spelling topics and past Ö
 
 ## Key Features
 
+## Screenshots
+
+<p align="center">
+  <img src="home.png" width="220" />
+  <img src="practice.png" width="220" />
+  <img src="mistakes.png" width="220" />
+</p>
+
 - 800+ spelling practice questions
 - Swipe-based learning experience
 - Content based on YKS / ÖSYM spelling topics
@@ -33,7 +41,11 @@ The application was built using an AI-assisted development workflow, allowing me
 
 ## Status
 
+## App Store
+
 ✅ Published on the Apple App Store
+
+[View Şampiyon Yazım on the App Store](https://apps.apple.com/tr/app/şampiyon-yazım/id6762749199)
 
 ## Related Project
 
